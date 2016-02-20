@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[MPMcCormick86]]></title>
-        <description><![CDATA[MPMcCormick86]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[MPMcCormick86 - Grid Project 1]]></title>
+        <description><![CDATA[MPMcCormick86 - Grid Project 1]]></description>
+        <link>https://thegrid.ai/mpmccormick86/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 03:52:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 04:06:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mpmccormick86/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined1eb5babd-154a-40bd-9fd0-d4b90a088bc1/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29994ce6-bb57-4623-8fa3-fd0a2ec21e43.jpg">]]></description>
+            <link>https://thegrid.ai/mpmccormick86/09e48219-17c1-4559-a379-34899982b4f9/index.html</link>
+            <guid isPermaLink="false">09e48219-17c1-4559-a379-34899982b4f9</guid>
+            <pubDate>Sat, 20 Feb 2016 04:05:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Was going to just be a weekend of Fallout4 and testing a remote assistance app, but I got my Grid Beta invite today! After waiting for what seems like forever, this is going to be an AWESOME weekend!</p>]]></description>
+            <link>https://thegrid.ai/mpmccormick86/1eb5babd-154a-40bd-9fd0-d4b90a088bc1/index.html</link>
             <guid isPermaLink="false">1eb5babd-154a-40bd-9fd0-d4b90a088bc1</guid>
             <pubDate>Sat, 20 Feb 2016 03:52:10 GMT</pubDate>
         </item>
