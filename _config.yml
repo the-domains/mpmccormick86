@@ -1,0 +1,28 @@
+name: MPMcCormick86
+favicon: null
+layout_spectrum: 0.5388167297933251
+typography_spectrum: 0.6064618888776749
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.004253510385751724
+  lightness: 0.6821387428790331
+  saturation: 0.5426882356405258
+  rhythmicContrast: 0.5605021025985479
+purpose: []
