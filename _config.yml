@@ -1,29 +1,41 @@
-name: MPMcCormick86
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.1122449
 title: MPMcCormick86 - Grid Project 1
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.7201933
+  brandStrength: 0.375
+  lightness: 0.4978518
   brandColors:
     - '#000000'
     - '#ffffff'
     - '#ffff00'
     - '#ff8300'
     - '#808080'
-  brandStrength: 0.375
-  lightness: 0.6875
-  saturation: 0.5625
-  rhythmicContrast: 0.25
-purpose: []
+  rhythmicContrast: 0.3109559
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: MPMcCormick86
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.1122449
+layout_spectrum: 1
